@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+
+<script>
+    'use strict';
+
+    /**
+     * Функция получает значения и складывает их
+     * @param a получает значение
+     * @param b получает значение
+     * @returns возвращает результат сложения
+     */
+    function addition ( a, b) {
+        return (a + b);
+    }
+
+
+    /**
+     * Функция получает значения и вычетает одно из другого
+     * @param a получает значение
+     * @param b получает значение
+     * @returns возвращает результат вычетания
+     */
+    function subtraction ( a, b) {
+        return (a - b);
+    }
+
+
+    /**
+     * Функция получает значения и делит их
+     * @param a получает значение
+     * @param b получает значение
+     * @returns возвращает результат деления
+     */
+
+
+    function division( a, b) {
+        return (a / b);
+    }
+
+
+    /**
+     * Функция получает значения и умножает их
+     * @param a получает значение
+     * @param b получает значение
+     * @returns возвращает результат умножения
+     */
+
+
+    function multiplication ( a, b) {
+        return (a * b);
+    }
+
+
+    function mathOperation(arg1, arg2, operation) {
+        switch(operation) {
+            case ("+"):
+                return addition(arg1, arg2);
+            case ("-"):
+                return subtraction(arg1, arg2);
+            case ("/"):
+                return division(arg1, arg2);
+            case ("*"):
+                return multiplication(arg1, arg2);
+        }
+
+    }
+
+    console.log(mathOperation(3,3, "*"));
+
+</script>
+
+
+</body>
+</html>
