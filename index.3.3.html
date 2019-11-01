@@ -9,7 +9,7 @@
 
 <script>
     'use strict'
-    const products = [
+    let products = [
         {
             id: 3,
             price: 200,
@@ -24,20 +24,22 @@
         },
     ];
 
-    function discount(value) {
-        let sale = value.filter[1].price ;
-        console.log(sale);
 
 
-       // for (let sale of value) {
-            //console.log(sale.price - 0.15);
-				//}
-    }
 
-   discount(products);
+			products = products.filter(function (value) {
+			return value.price = value.price - value.price* 0.15
+						});
+
+			console.log(products);
 
 
-    //return value.filter.price -0.15
+			products.forEach(function (element)  {
+				element.price = element.price - element.price * 0.15;
+			});
+
+			console.log(products);
+
 </script>
 
 
