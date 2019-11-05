@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+
+
+<script>
+    'use strict';
+    let products = [
+        {
+            id: 3,
+            price: 200,
+        },
+        {
+            id: 4,
+            price: 900,
+        },
+        {
+            id: 1,
+            price: 1000,
+        },
+    ];
+
+
+
+
+			products = products.filter(function (value) {
+			return value.price = value.price - value.price* 0.15
+						});
+
+			console.log(products);
+
+
+			products.forEach(function (element)  {
+				element.price = element.price - element.price * 0.15;
+			});
+
+			console.log(products);
+
+</script>
+
+
+
+
+</body>
+</html>
