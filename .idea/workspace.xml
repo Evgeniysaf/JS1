@@ -11,38 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.3.4.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.3.4.html">
+      <file leaf-file-name="index4.1.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index4.1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index3.1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index3.1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index3.2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index3.2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.3.3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.3.3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="137">
+              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -55,10 +28,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index3.1.html" />
         <option value="$PROJECT_DIR$/index3.2.html" />
         <option value="$PROJECT_DIR$/index.3.3.html" />
         <option value="$PROJECT_DIR$/index.3.4.html" />
+        <option value="$PROJECT_DIR$/index3.1.html" />
+        <option value="$PROJECT_DIR$/index4.1.html" />
       </list>
     </option>
   </component>
@@ -71,11 +45,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="328" />
-    <option name="y" value="180" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="429" />
+    <option name="y" value="122" />
     <option name="width" value="1419" />
-    <option name="height" value="893" />
+    <option name="height" value="845" />
   </component>
   <component name="ProjectId" id="1SyoKVytUcdOy7XNE9eRrNxakH2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -126,7 +100,6 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c766749b-519d-44c3-946a-ca148e638e5f" name="Default" comment="" />
       <created>1570458654248</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -161,15 +134,30 @@
       <workItem from="1572624108065" duration="213000" />
       <workItem from="1572967368935" duration="1695000" />
       <workItem from="1572969146266" duration="1739000" />
-      <workItem from="1572971915083" duration="741000" />
+      <workItem from="1572971915083" duration="1550000" />
+      <workItem from="1573050666569" duration="90000" />
+      <workItem from="1573553017634" duration="1944000" />
+      <workItem from="1573556006339" duration="1337000" />
+      <workItem from="1573645218284" duration="1702000" />
+      <workItem from="1573646938316" duration="918000" />
+      <workItem from="1573651601885" duration="1737000" />
+      <workItem from="1573657129361" duration="1803000" />
+      <workItem from="1573659402558" duration="1791000" />
+      <workItem from="1573661217886" duration="264000" />
+      <workItem from="1573720427822" duration="1697000" />
+      <workItem from="1573722209849" duration="1810000" />
+      <workItem from="1573724044417" duration="487000" />
+      <workItem from="1573725083732" duration="655000" />
+      <workItem from="1573727032412" duration="1361000" />
+      <workItem from="1573729279452" duration="1529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105000" />
+    <option name="totallyTimeSpent" value="20039000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="328" y="180" width="1419" height="893" extended-state="1" />
+    <frame x="429" y="122" width="1419" height="845" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27299058" />
@@ -218,7 +206,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index2.5.html" />
     <entry file="file://$PROJECT_DIR$/index.2.6.html" />
     <entry file="file://$PROJECT_DIR$/index2.1.html" />
     <entry file="file://$PROJECT_DIR$/index2.2.html" />
@@ -265,31 +252,14 @@
     <entry file="file://$PROJECT_DIR$/index2.1.html" />
     <entry file="file://$PROJECT_DIR$/index2.2.html" />
     <entry file="file://$PROJECT_DIR$/index2.5.html" />
-    <entry file="file://$PROJECT_DIR$/index3.1.html">
+    <entry file="file://$PROJECT_DIR$/index.3.3.html" />
+    <entry file="file://$PROJECT_DIR$/index3.2.html" />
+    <entry file="file://$PROJECT_DIR$/index.3.4.html" />
+    <entry file="file://$PROJECT_DIR$/index3.1.html" />
+    <entry file="file://$PROJECT_DIR$/index4.1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.3.3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index3.2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.3.4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        <state relative-caret-position="137">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+
+<script>
+
+    'use strict';
+
+    /**
+		 * Функция конструктор AddObjectNumber
+     * @param num
+     * @constructor
+     */
+    function AddObjectNumber(num) {
+
+        if (Number.isInteger(num) && typeof num === "number" && 900 >= num && 0 <= num) {
+            this.Hundereds = Math.floor(num / 100);
+            this.tens = Math.floor(num / 10 % 10);
+            this.units = num % 10;
+
+        } else {
+            console.log("Число не подходит: не является числом, не является целым числом");
+        }
+    }
+
+    const vin = new AddObjectNumber(123);
+    console.log(vin);
+
+</script>
+
+</body>
+</html>
