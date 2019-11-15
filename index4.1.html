@@ -1,8 +1,8 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>Document</title>
+    <meta charset="UTF-8">
+    <title>Document</title>
 </head>
 <body>
 
@@ -11,7 +11,7 @@
     'use strict';
 
     /**
-		 * Функция конструктор разбивает число по разрядам и возвращает объект с записывая в него отдельный разряд числа, в ином случаи выдает ошибку
+     * Функция конструктор разбивает число по разрядам и возвращает объект с записывая в него отдельный разряд числа, в ином случаи выдает ошибку
      * @param num Принимает число
      * @constructor AddObjectNumber проверяет число и разбивает на части
      */
@@ -27,8 +27,25 @@
         }
     }
 
-    const vin = new AddObjectNumber(123);
+    const vin = new AddObjectNumber('123');
     console.log(vin);
+
+
+    /*Обычная функция
+     function lol(num) {
+            if (Number.isInteger(num) && (typeof num === "number") && (900 >= num && 0 <= num)) {
+                return {
+                    Hundereds: Math.floor(num / 100),
+                    tens: Math.floor(num / 10 % 10),
+                    units: num % 10
+                }
+            } else {
+                console.log("Число не подходит: не является числом, не является целым числом");
+            }
+        }
+        console.log(lol(123));
+     */
+
 
 </script>
 
