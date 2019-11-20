@@ -14,7 +14,7 @@ let mover = {
      */
     getDirection() {
         // Доступные значения ввода.
-        const availableDirections = [2, 4, 6, 8,7, 9, 1, 3];
+        const availableDirections = [2, 4, 6, 8, 7, 9, 1, 3];
 
         while (true) {
             // Получаем от пользователя направление.
